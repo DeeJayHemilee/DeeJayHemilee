@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DeeJayHemilee
-- 👀 I’m interested in Briging Data and Physics
-- - 👀 I’m also interested in the Fashion world
+- 👀 I’m interested in Briging Data, Web Development and Physics
+- 👀 I’m also interested in the Fashion
 - 🌱 I’m currently learning Frontend Development
 - 💞️ I’m looking to collaborate on any project that bridges Data and FrontDevelopment
 - 💞️ I’m looking to collaborate on any project that bridges Data and Fashion
